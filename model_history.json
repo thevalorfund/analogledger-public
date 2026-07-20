@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-07-20T05:17:22Z",
+  "current_version": "v8",
+  "models": [
+    {
+      "version": "v1",
+      "name": "Engle",
+      "label": "2024Q1",
+      "promoted": true,
+      "reactivated": false,
+      "lift_p5": 1.24,
+      "lift_p10": 1.03,
+      "lift_p20": 1.0
+    },
+    {
+      "version": "v2",
+      "name": null,
+      "label": "2024Q2",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.17,
+      "lift_p10": 1.13,
+      "lift_p20": 1.02
+    },
+    {
+      "version": "v3",
+      "name": null,
+      "label": "2024Q3",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.33,
+      "lift_p10": 1.24,
+      "lift_p20": 1.08
+    },
+    {
+      "version": "v4",
+      "name": null,
+      "label": "2024Q4",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.39,
+      "lift_p10": 1.16,
+      "lift_p20": 1.08
+    },
+    {
+      "version": "v5",
+      "name": "Modigliani",
+      "label": "2025Q1",
+      "promoted": true,
+      "reactivated": false,
+      "lift_p5": 1.35,
+      "lift_p10": 1.29,
+      "lift_p20": 1.15
+    },
+    {
+      "version": "v6",
+      "name": null,
+      "label": "2025Q2",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.37,
+      "lift_p10": 1.25,
+      "lift_p20": 1.16
+    },
+    {
+      "version": "v7",
+      "name": "Wilder",
+      "label": "2025Q3",
+      "promoted": true,
+      "reactivated": false,
+      "lift_p5": 1.68,
+      "lift_p10": 1.31,
+      "lift_p20": 1.13
+    },
+    {
+      "version": "v8",
+      "name": "Lorenz",
+      "label": "2025Q4",
+      "promoted": false,
+      "reactivated": true,
+      "lift_p5": 1.84,
+      "lift_p10": 1.62,
+      "lift_p20": 1.46
+    },
+    {
+      "version": "v9",
+      "name": null,
+      "label": "2026Q1",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.89,
+      "lift_p10": 1.59,
+      "lift_p20": 1.38
+    },
+    {
+      "version": "v10",
+      "name": null,
+      "label": "2026Q2",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.51,
+      "lift_p10": 1.45,
+      "lift_p20": 1.35
+    },
+    {
+      "version": "v11",
+      "name": null,
+      "label": "2026Q3",
+      "promoted": false,
+      "reactivated": false,
+      "lift_p5": 1.63,
+      "lift_p10": 1.48,
+      "lift_p20": 1.35
+    }
+  ]
+}
