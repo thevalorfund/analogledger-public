@@ -12,6 +12,12 @@ That means for any week younger than 12 weeks, you'll see scrambled text instead
 
 Subscribers see each week's candidates immediately, with no wait — they get access through the website itself, backed by a separate [private repository](https://github.com/thevalorfund/analogledger-data) that never redacts anything. That repo isn't browsable on its own; it's only reachable by subscribing at [analogledger.com/subscribe](https://analogledger.com/subscribe). This encryption scheme exists so that free readers aren't just asked to take it on faith that subscribers are seeing the same untouched data — the ciphertext committed here on day one is mathematically provable to unlock into exactly what subscribers already saw, once the key is published. Nobody, including us, can quietly change a candidate list after the fact and have it go unnoticed.
 
+## If we get something wrong
+
+Nothing in this repo is edited after the fact — including to fix a real mistake. If an error is ever found in already-published data, the original file stays exactly as committed. We publish a separate, clearly-labeled correction alongside it instead, with a plain explanation of what was wrong — never a quiet edit to the original.
+
+The entire point of this archive is that nothing can be rewritten after the fact once it's public. That has to be true even when the mistake is ours.
+
 ## What's in this repo
 
 ### `index.json`
@@ -60,7 +66,7 @@ One file per weekly scan. This is the actual list of candidates the model ranked
 ```json
 {
   "scan_date": "2026-06-29",
-  "model_version": "v9",
+  "model_version": "v8",
   "published_at": "2026-07-07T16:31:30Z",
   "candidate_count": 109,
   "candidates": null,
@@ -101,7 +107,7 @@ A backtested simulation of what would've happened if someone actually traded eve
   },
   "eras": [
     {
-      "model_version": "v9",
+      "model_version": "v8",
       "weeks": 26,
       "date_range": ["2026-01-05", "2026-06-29"],
       "final_equity": 28000.0,
