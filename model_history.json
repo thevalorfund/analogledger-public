@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:48:20Z",
+  "generated_at": "2026-08-06T06:05:13Z",
   "current_version": "v3",
   "models": [
     {
@@ -28,9 +28,9 @@
       "label": "2024Q3",
       "promoted": false,
       "reactivated": true,
-      "lift_p5": null,
-      "lift_p10": null,
-      "lift_p20": null
+      "lift_p5": 1.63,
+      "lift_p10": 1.4,
+      "lift_p20": 1.18
     },
     {
       "version": "v4",

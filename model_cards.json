@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:48:20Z",
+  "generated_at": "2026-08-06T06:05:13Z",
   "models": [
     {
       "version": "v1",
@@ -60,11 +60,11 @@
           "type": "reactivated",
           "date": "2026-04-27",
           "replaced": "v8",
-          "test_start": null,
-          "test_end": null,
-          "lift_p5": null,
-          "lift_p10": null,
-          "lift_p20": null,
+          "test_start": "2025-08-11",
+          "test_end": "2026-02-02",
+          "lift_p5": 1.63,
+          "lift_p10": 1.4,
+          "lift_p20": 1.18,
           "summary": "Promoted mid-cycle, replacing the then-live v8, after a routine health check found v8 had grown stale on the newest data. Every previously tested version was re-scored against that same fresh data, and this one came out on top."
         }
       ]
