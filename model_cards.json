@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-06T06:05:13Z",
+  "generated_at": "2026-08-06T16:29:18Z",
   "models": [
     {
       "version": "v1",
-      "name": null,
+      "name": "Huber",
       "events": [
         {
           "type": "trained",
           "date": "2024-01-01",
           "label": "2024Q1",
-          "promoted": false,
+          "promoted": true,
           "test_start": "2023-04-17",
           "test_end": "2023-10-09",
           "lift_p5": 1.31,
@@ -41,7 +41,7 @@
     },
     {
       "version": "v3",
-      "name": "Lorenz",
+      "name": "Wilder",
       "events": [
         {
           "type": "trained",
@@ -71,13 +71,13 @@
     },
     {
       "version": "v4",
-      "name": null,
+      "name": "Tukey",
       "events": [
         {
           "type": "trained",
           "date": "2024-10-01",
           "label": "2024Q4",
-          "promoted": false,
+          "promoted": true,
           "test_start": "2024-01-15",
           "test_end": "2024-07-08",
           "lift_p5": 1.43,
@@ -147,7 +147,7 @@
     },
     {
       "version": "v8",
-      "name": "Hurst",
+      "name": "Jensen",
       "events": [
         {
           "type": "trained",
@@ -178,8 +178,8 @@
           "lift_p5": 1.4,
           "lift_p10": 1.35,
           "lift_p20": 1.26,
-          "compared_against": "v8",
-          "summary": "Tested against the then-live v8 but did not beat it by enough to be promoted."
+          "compared_against": null,
+          "summary": "First production model — no prior version to compare against."
         }
       ]
     },
@@ -197,8 +197,8 @@
           "lift_p5": 1.35,
           "lift_p10": 1.33,
           "lift_p20": 1.18,
-          "compared_against": "v8",
-          "summary": "Tested against the then-live v8 but did not beat it by enough to be promoted."
+          "compared_against": null,
+          "summary": "First production model — no prior version to compare against."
         }
       ]
     },
@@ -216,8 +216,8 @@
           "lift_p5": 1.55,
           "lift_p10": 1.42,
           "lift_p20": 1.3,
-          "compared_against": "v3",
-          "summary": "Tested against the then-live v3 but did not beat it by enough to be promoted."
+          "compared_against": null,
+          "summary": "First production model — no prior version to compare against."
         }
       ]
     }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T06:05:13Z",
+  "generated_at": "2026-08-06T16:29:18Z",
   "current_version": "v3",
   "models": [
     {
       "version": "v1",
-      "name": null,
+      "name": "Huber",
       "label": "2024Q1",
-      "promoted": false,
+      "promoted": true,
       "reactivated": false,
       "lift_p5": 1.31,
       "lift_p10": 1.15,
@@ -24,7 +24,7 @@
     },
     {
       "version": "v3",
-      "name": "Lorenz",
+      "name": "Wilder",
       "label": "2024Q3",
       "promoted": false,
       "reactivated": true,
@@ -34,9 +34,9 @@
     },
     {
       "version": "v4",
-      "name": null,
+      "name": "Tukey",
       "label": "2024Q4",
-      "promoted": false,
+      "promoted": true,
       "reactivated": false,
       "lift_p5": 1.43,
       "lift_p10": 1.36,
@@ -74,7 +74,7 @@
     },
     {
       "version": "v8",
-      "name": "Hurst",
+      "name": "Jensen",
       "label": "2025Q4",
       "promoted": true,
       "reactivated": false,
