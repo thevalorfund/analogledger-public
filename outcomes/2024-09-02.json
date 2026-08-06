@@ -1,157 +1,199 @@
 {
   "scan_date": "2024-09-02",
-  "matured_at": "2026-07-25T19:00:57Z",
-  "weeks_elapsed": 98.7,
+  "matured_at": "2026-08-06T19:01:34Z",
+  "weeks_elapsed": 100.4,
   "results": [
     {
       "rank": 1,
+      "ticker": "CNET",
+      "peak_return_pct": 126.5,
+      "hit_100": true
+    },
+    {
+      "rank": 2,
+      "ticker": "BIG",
+      "peak_return_pct": null,
+      "hit_100": null
+    },
+    {
+      "rank": 3,
       "ticker": "BMRA",
       "peak_return_pct": 31.0,
       "hit_100": false
     },
     {
-      "rank": 2,
-      "ticker": "WW",
-      "peak_return_pct": 189.7,
-      "hit_100": true
-    },
-    {
-      "rank": 3,
-      "ticker": "CISO",
-      "peak_return_pct": 211.6,
-      "hit_100": true
-    },
-    {
       "rank": 4,
-      "ticker": "AMPX",
-      "peak_return_pct": 281.7,
+      "ticker": "FBRX",
+      "peak_return_pct": 207.0,
       "hit_100": true
     },
     {
       "rank": 5,
-      "ticker": "SMSI",
-      "peak_return_pct": 167.1,
-      "hit_100": true
+      "ticker": "LIXT",
+      "peak_return_pct": 22.6,
+      "hit_100": false
     },
     {
       "rank": 6,
-      "ticker": "ATRA",
-      "peak_return_pct": 57.6,
+      "ticker": "MOBX",
+      "peak_return_pct": 93.1,
       "hit_100": false
     },
     {
       "rank": 7,
-      "ticker": "BAER",
-      "peak_return_pct": 137.3,
+      "ticker": "GNPX",
+      "peak_return_pct": 744.5,
       "hit_100": true
     },
     {
       "rank": 8,
-      "ticker": "BFRI",
-      "peak_return_pct": 100.0,
-      "hit_100": true
-    },
-    {
-      "rank": 9,
-      "ticker": "BENF",
-      "peak_return_pct": 15.1,
-      "hit_100": false
-    },
-    {
-      "rank": 10,
-      "ticker": "SHLS",
-      "peak_return_pct": 19.3,
-      "hit_100": false
-    },
-    {
-      "rank": 11,
-      "ticker": "SOS",
-      "peak_return_pct": 94.9,
-      "hit_100": false
-    },
-    {
-      "rank": 12,
-      "ticker": "SGLY",
-      "peak_return_pct": 21.7,
-      "hit_100": false
-    },
-    {
-      "rank": 13,
-      "ticker": "DBGI",
-      "peak_return_pct": -2.0,
-      "hit_100": false
-    },
-    {
-      "rank": 14,
-      "ticker": "INBS",
-      "peak_return_pct": 89.9,
-      "hit_100": false
-    },
-    {
-      "rank": 15,
-      "ticker": "HCWB",
-      "peak_return_pct": 258.1,
-      "hit_100": true
-    },
-    {
-      "rank": 16,
-      "ticker": "IEP",
-      "peak_return_pct": 48.3,
-      "hit_100": false
-    },
-    {
-      "rank": 17,
-      "ticker": "AUUD",
-      "peak_return_pct": 1.7,
-      "hit_100": false
-    },
-    {
-      "rank": 18,
-      "ticker": "HSDT",
-      "peak_return_pct": 20.3,
-      "hit_100": false
-    },
-    {
-      "rank": 19,
-      "ticker": "VUZI",
-      "peak_return_pct": 169.6,
-      "hit_100": true
-    },
-    {
-      "rank": 20,
-      "ticker": "VTAK",
-      "peak_return_pct": 332.8,
-      "hit_100": true
-    },
-    {
-      "rank": 21,
-      "ticker": "MSGM",
-      "peak_return_pct": 42.8,
-      "hit_100": false
-    },
-    {
-      "rank": 22,
-      "ticker": "LGHL",
-      "peak_return_pct": 83.0,
-      "hit_100": false
-    },
-    {
-      "rank": 23,
-      "ticker": "BRID",
-      "peak_return_pct": 1.1,
-      "hit_100": false
-    },
-    {
-      "rank": 24,
       "ticker": "VOR",
       "peak_return_pct": 31.1,
       "hit_100": false
     },
     {
-      "rank": 25,
-      "ticker": "CNET",
-      "peak_return_pct": 126.5,
+      "rank": 9,
+      "ticker": "SKIN",
+      "peak_return_pct": 39.0,
+      "hit_100": false
+    },
+    {
+      "rank": 10,
+      "ticker": "BAER",
+      "peak_return_pct": 137.3,
       "hit_100": true
+    },
+    {
+      "rank": 11,
+      "ticker": "VSTA",
+      "peak_return_pct": 11.6,
+      "hit_100": false
+    },
+    {
+      "rank": 12,
+      "ticker": "CHGG",
+      "peak_return_pct": 24.2,
+      "hit_100": false
+    },
+    {
+      "rank": 13,
+      "ticker": "LOBO",
+      "peak_return_pct": 66.0,
+      "hit_100": false
+    },
+    {
+      "rank": 14,
+      "ticker": "GWH",
+      "peak_return_pct": 74.5,
+      "hit_100": false
+    },
+    {
+      "rank": 15,
+      "ticker": "ACRV",
+      "peak_return_pct": 23.8,
+      "hit_100": false
+    },
+    {
+      "rank": 16,
+      "ticker": "ELUT",
+      "peak_return_pct": 12.0,
+      "hit_100": false
+    },
+    {
+      "rank": 17,
+      "ticker": "CBUS",
+      "peak_return_pct": 37.1,
+      "hit_100": false
+    },
+    {
+      "rank": 18,
+      "ticker": "INBS",
+      "peak_return_pct": 89.9,
+      "hit_100": false
+    },
+    {
+      "rank": 19,
+      "ticker": "ATIF",
+      "peak_return_pct": 87.5,
+      "hit_100": false
+    },
+    {
+      "rank": 20,
+      "ticker": "LFST",
+      "peak_return_pct": 23.9,
+      "hit_100": false
+    },
+    {
+      "rank": 21,
+      "ticker": "PNBK",
+      "peak_return_pct": 65.8,
+      "hit_100": false
+    },
+    {
+      "rank": 22,
+      "ticker": "BFLY",
+      "peak_return_pct": 116.5,
+      "hit_100": true
+    },
+    {
+      "rank": 23,
+      "ticker": "HCWB",
+      "peak_return_pct": 258.1,
+      "hit_100": true
+    },
+    {
+      "rank": 24,
+      "ticker": "GRRR",
+      "peak_return_pct": 103.5,
+      "hit_100": true
+    },
+    {
+      "rank": 25,
+      "ticker": "DH",
+      "peak_return_pct": 16.3,
+      "hit_100": false
+    },
+    {
+      "rank": 26,
+      "ticker": "BREA",
+      "peak_return_pct": 138.9,
+      "hit_100": true
+    },
+    {
+      "rank": 27,
+      "ticker": "ARQT",
+      "peak_return_pct": 30.3,
+      "hit_100": false
+    },
+    {
+      "rank": 28,
+      "ticker": "CMPX",
+      "peak_return_pct": 45.5,
+      "hit_100": false
+    },
+    {
+      "rank": 29,
+      "ticker": "MP",
+      "peak_return_pct": 56.0,
+      "hit_100": false
+    },
+    {
+      "rank": 30,
+      "ticker": "PTON",
+      "peak_return_pct": 129.4,
+      "hit_100": true
+    },
+    {
+      "rank": 31,
+      "ticker": "ATUS",
+      "peak_return_pct": 28.6,
+      "hit_100": false
+    },
+    {
+      "rank": 32,
+      "ticker": "LUMO",
+      "peak_return_pct": 20.4,
+      "hit_100": false
     }
   ]
 }

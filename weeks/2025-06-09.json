@@ -1,816 +1,1096 @@
 {
   "scan_date": "2025-06-09",
   "model_version": "v4",
-  "published_at": "2026-07-25T19:00:54Z",
-  "candidate_count": 115,
+  "published_at": "2026-08-06T19:01:31Z",
+  "candidate_count": 155,
   "candidates": [
     {
       "rank": 1,
-      "ticker": "CTXR",
-      "close": 0.8746,
+      "ticker": "RENB",
+      "close": 3.653,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 6.4
+      "profile_historical_hit_rate_pct": 50.2
     },
     {
       "rank": 2,
-      "ticker": "EVTV",
-      "close": 1.636,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.0
+      "ticker": "SST",
+      "close": 3.87,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 60.7
     },
     {
       "rank": 3,
-      "ticker": "MOVE",
-      "close": 4.8601,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.0
+      "ticker": "DFLI",
+      "close": 3.032,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 82.6
     },
     {
       "rank": 4,
-      "ticker": "ONMD",
-      "close": 0.3226,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 47.3
+      "ticker": "UAVS",
+      "close": 1.3,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 41.5
     },
     {
       "rank": 5,
       "ticker": "INTS",
       "close": 7.95,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 43.8
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 17.8
     },
     {
       "rank": 6,
-      "ticker": "AEMD",
-      "close": 17.6,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.0
+      "ticker": "MOVE",
+      "close": 4.8601,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 40.6
     },
     {
       "rank": 7,
-      "ticker": "SMRT",
-      "close": 0.8846,
+      "ticker": "NPWR",
+      "close": 2.5,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.9
+      "profile_historical_hit_rate_pct": 37.5
     },
     {
       "rank": 8,
-      "ticker": "PALI",
-      "close": 0.6401,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 49.6
+      "ticker": "SCLX",
+      "close": 4.82,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 37.5
     },
     {
       "rank": 9,
-      "ticker": "OPEN",
-      "close": 0.5565,
+      "ticker": "CVM",
+      "close": 2.25,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 70.8
+      "profile_historical_hit_rate_pct": 71.8
     },
     {
       "rank": 10,
-      "ticker": "FEBO",
-      "close": 1.0744,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 55.7
+      "ticker": "NCI",
+      "close": 13.624,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 41.2
     },
     {
       "rank": 11,
-      "ticker": "GWH",
-      "close": 1.06,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 55.7
+      "ticker": "NMRA",
+      "close": 0.8445,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 63.1
     },
     {
       "rank": 12,
-      "ticker": "BEEM",
-      "close": 1.41,
+      "ticker": "XTIA",
+      "close": 4.06,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 70.8
+      "profile_historical_hit_rate_pct": -0.0
     },
     {
       "rank": 13,
-      "ticker": "KAPA",
-      "close": 0.52,
+      "ticker": "NEHC",
+      "close": 0.5432,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 24.7
+      "profile_historical_hit_rate_pct": 41.8
     },
     {
       "rank": 14,
-      "ticker": "PTLE",
-      "close": 16.0,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 22.5
+      "ticker": "CGBS",
+      "close": 0.1125,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 48.5
     },
     {
       "rank": 15,
-      "ticker": "RCAT",
-      "close": 8.34,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 21.7
+      "ticker": "NCPL",
+      "close": 2.66,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 45.9
     },
     {
       "rank": 16,
-      "ticker": "LWLG",
-      "close": 1.22,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 47.3
+      "ticker": "JUNS",
+      "close": 1.13,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 35.4
     },
     {
       "rank": 17,
-      "ticker": "MGNX",
-      "close": 1.52,
+      "ticker": "CARM",
+      "close": 0.4516,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 17.4
+      "profile_historical_hit_rate_pct": 33.9
     },
     {
       "rank": 18,
-      "ticker": "UPLD",
-      "close": 17.3,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.9
+      "ticker": "OVID",
+      "close": 0.2802,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 53.7
     },
     {
       "rank": 19,
-      "ticker": "TRNR",
-      "close": 488.11,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 95.1
+      "ticker": "DPRO",
+      "close": 2.42,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 32.5
     },
     {
       "rank": 20,
-      "ticker": "UAVS",
-      "close": 1.3,
+      "ticker": "CRML",
+      "close": 2.03,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 46.1
+      "profile_historical_hit_rate_pct": 52.7
     },
     {
       "rank": 21,
-      "ticker": "WKHS",
-      "close": 11.76,
+      "ticker": "CMBM",
+      "close": 0.32,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 95.1
+      "profile_historical_hit_rate_pct": 72.0
     },
     {
       "rank": 22,
-      "ticker": "SERA",
-      "close": 1.71,
+      "ticker": "KAPA",
+      "close": 0.52,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 8.2
+      "profile_historical_hit_rate_pct": 50.2
     },
     {
       "rank": 23,
-      "ticker": "IRWD",
-      "close": 0.62,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 29.0
+      "ticker": "TNYA",
+      "close": 0.5915,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 63.1
     },
     {
       "rank": 24,
-      "ticker": "CNTX",
-      "close": 0.6294,
+      "ticker": "MODV",
+      "close": 2.92,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 13.5
+      "profile_historical_hit_rate_pct": 13.9
     },
     {
       "rank": 25,
-      "ticker": "ACXP",
-      "close": 6.1,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 10.9
+      "ticker": "CASI",
+      "close": 1.84,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 73.8
     },
     {
       "rank": 26,
-      "ticker": "SST",
-      "close": 3.87,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 41.1
+      "ticker": "TPET",
+      "close": 1.42,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.4
     },
     {
       "rank": 27,
-      "ticker": "ERNA",
-      "close": 57.25,
+      "ticker": "BATL",
+      "close": 1.64,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 1.1
+      "profile_historical_hit_rate_pct": 33.1
     },
     {
       "rank": 28,
-      "ticker": "FCEL",
-      "close": 6.03,
+      "ticker": "ONMD",
+      "close": 0.3226,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 55.3
+      "profile_historical_hit_rate_pct": 36.6
     },
     {
       "rank": 29,
-      "ticker": "HIT",
-      "close": 0.5967,
+      "ticker": "OPI",
+      "close": 0.2399,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 30,
+      "ticker": "IRWD",
+      "close": 0.62,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 54.5
+    },
+    {
+      "rank": 31,
+      "ticker": "TROO",
+      "close": 0.7611,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 19.9
+    },
+    {
+      "rank": 32,
+      "ticker": "PRME",
+      "close": 1.46,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.2
+    },
+    {
+      "rank": 33,
+      "ticker": "TTGT",
+      "close": 7.07,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 8.5
+    },
+    {
+      "rank": 34,
+      "ticker": "IGMS",
+      "close": 1.21,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 13.9
+    },
+    {
+      "rank": 35,
+      "ticker": "FTRE",
+      "close": 5.91,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 60.7
+    },
+    {
+      "rank": 36,
+      "ticker": "LVLU",
+      "close": 6.75,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 29.4
+    },
+    {
+      "rank": 37,
+      "ticker": "MYGN",
+      "close": 5.03,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 8.0
+    },
+    {
+      "rank": 38,
+      "ticker": "CTNM",
+      "close": 4.43,
       "profile_tier": "A",
       "profile_historical_hit_rate_pct": 26.4
     },
     {
-      "rank": 30,
-      "ticker": "CMPR",
-      "close": 43.0,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 30.4
-    },
-    {
-      "rank": 31,
-      "ticker": "TLYS",
-      "close": 1.15,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 70.8
-    },
-    {
-      "rank": 32,
-      "ticker": "JUNS",
-      "close": 1.13,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.3
-    },
-    {
-      "rank": 33,
-      "ticker": "OVID",
-      "close": 0.2802,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 33.8
-    },
-    {
-      "rank": 34,
-      "ticker": "ALXO",
-      "close": 0.5124,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 93.2
-    },
-    {
-      "rank": 35,
-      "ticker": "LAES",
-      "close": 3.94,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.8
-    },
-    {
-      "rank": 36,
-      "ticker": "PXLW",
-      "close": 4.8,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 42.2
-    },
-    {
-      "rank": 37,
-      "ticker": "IOVA",
-      "close": 2.24,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 41.1
-    },
-    {
-      "rank": 38,
-      "ticker": "SNES",
-      "close": 3.4,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 21.8
-    },
-    {
       "rank": 39,
-      "ticker": "AERT",
-      "close": 6.7008,
+      "ticker": "ACXP",
+      "close": 6.1,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 18.8
+      "profile_historical_hit_rate_pct": 55.4
     },
     {
       "rank": 40,
-      "ticker": "CRML",
-      "close": 2.03,
+      "ticker": "IOVA",
+      "close": 2.24,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 46.8
+      "profile_historical_hit_rate_pct": 26.4
     },
     {
       "rank": 41,
-      "ticker": "AQMS",
-      "close": 7.79,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 39.6
+      "ticker": "OPEN",
+      "close": 0.5565,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
     },
     {
       "rank": 42,
-      "ticker": "SOAR",
-      "close": 1.65,
+      "ticker": "MOGO",
+      "close": 1.24,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 70.2
+      "profile_historical_hit_rate_pct": 19.2
     },
     {
       "rank": 43,
-      "ticker": "BATL",
-      "close": 1.64,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 26.2
+      "ticker": "SRFM",
+      "close": 2.07,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
     },
     {
       "rank": 44,
-      "ticker": "PEPG",
-      "close": 1.43,
+      "ticker": "EQ",
+      "close": 0.347,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 55.7
+      "profile_historical_hit_rate_pct": 81.7
     },
     {
       "rank": 45,
-      "ticker": "FGL",
-      "close": 97.0,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 41.3
+      "ticker": "IVDA",
+      "close": 1.96,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 0.0
     },
     {
       "rank": 46,
-      "ticker": "UMAC",
-      "close": 8.45,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 42.7
+      "ticker": "FCEL",
+      "close": 6.03,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 40.0
     },
     {
       "rank": 47,
-      "ticker": "GCTS",
-      "close": 1.37,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 38.4
+      "ticker": "ELEV",
+      "close": 0.3817,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 53.7
     },
     {
       "rank": 48,
-      "ticker": "ICON",
-      "close": 14.6,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 31.2
+      "ticker": "NEGG",
+      "close": 9.36,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 33.5
     },
     {
       "rank": 49,
-      "ticker": "NMRA",
-      "close": 0.8445,
+      "ticker": "QTRX",
+      "close": 6.06,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 95.1
+      "profile_historical_hit_rate_pct": 29.6
     },
     {
       "rank": 50,
-      "ticker": "TPET",
-      "close": 1.42,
+      "ticker": "FATE",
+      "close": 1.275,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 31.2
+      "profile_historical_hit_rate_pct": 51.4
     },
     {
       "rank": 51,
-      "ticker": "ELAB",
-      "close": 174.72,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 95.1
+      "ticker": "PLUG",
+      "close": 1.29,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.5
     },
     {
       "rank": 52,
-      "ticker": "INTJ",
-      "close": 15.682,
+      "ticker": "RMBL",
+      "close": 1.94,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 44.5
+      "profile_historical_hit_rate_pct": 50.1
     },
     {
       "rank": 53,
-      "ticker": "BOLD",
-      "close": 1.05,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 28.1
-    },
-    {
-      "rank": 54,
-      "ticker": "ONCY",
-      "close": 0.608,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.9
-    },
-    {
-      "rank": 55,
-      "ticker": "AYTU",
-      "close": 1.95,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 40.5
-    },
-    {
-      "rank": 56,
-      "ticker": "NINE",
-      "close": 0.7342,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.0
-    },
-    {
-      "rank": 57,
-      "ticker": "REI",
-      "close": 0.8668,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 16.4
-    },
-    {
-      "rank": 58,
       "ticker": "VRA",
       "close": 1.78,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.4
+      "profile_historical_hit_rate_pct": 40.1
     },
     {
-      "rank": 59,
-      "ticker": "CTM",
-      "close": 1.17,
+      "rank": 54,
+      "ticker": "DOMH",
+      "close": 4.86,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.8
+      "profile_historical_hit_rate_pct": 21.9
     },
     {
-      "rank": 60,
-      "ticker": "GNLN",
-      "close": 60.6,
-      "profile_tier": "A",
+      "rank": 55,
+      "ticker": "FAT",
+      "close": 2.56,
+      "profile_tier": "B",
       "profile_historical_hit_rate_pct": 0.0
     },
     {
-      "rank": 61,
-      "ticker": "BFRI",
-      "close": 0.659,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 24.7
-    },
-    {
-      "rank": 62,
-      "ticker": "CISS",
-      "close": 592.2,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.7
-    },
-    {
-      "rank": 63,
-      "ticker": "GETY",
-      "close": 1.75,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 42.2
-    },
-    {
-      "rank": 64,
-      "ticker": "ATGL",
-      "close": 25.85,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 10.6
-    },
-    {
-      "rank": 65,
-      "ticker": "DHX",
-      "close": 2.51,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 27.2
-    },
-    {
-      "rank": 66,
-      "ticker": "FTRE",
-      "close": 5.91,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 47.3
-    },
-    {
-      "rank": 67,
-      "ticker": "PLUG",
-      "close": 1.29,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 55.3
-    },
-    {
-      "rank": 68,
-      "ticker": "CTNM",
-      "close": 4.43,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 93.2
-    },
-    {
-      "rank": 69,
-      "ticker": "SCNX",
-      "close": 1.0695,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.2
-    },
-    {
-      "rank": 70,
-      "ticker": "DNA",
-      "close": 8.94,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.7
-    },
-    {
-      "rank": 71,
-      "ticker": "XTIA",
-      "close": 4.06,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 22.5
-    },
-    {
-      "rank": 72,
-      "ticker": "BMR",
-      "close": 3.23,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.7
-    },
-    {
-      "rank": 73,
-      "ticker": "EVTL",
-      "close": 5.71,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 34.3
-    },
-    {
-      "rank": 74,
-      "ticker": "FBIO",
-      "close": 1.85,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 21.8
-    },
-    {
-      "rank": 75,
-      "ticker": "APYX",
-      "close": 1.75,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 45.8
-    },
-    {
-      "rank": 76,
-      "ticker": "CRIS",
-      "close": 49.0,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 44.6
-    },
-    {
-      "rank": 77,
-      "ticker": "MI",
-      "close": 169.784,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.0
-    },
-    {
-      "rank": 78,
-      "ticker": "SLDP",
-      "close": 1.75,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 27.2
-    },
-    {
-      "rank": 79,
-      "ticker": "SNBR",
-      "close": 7.1,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.9
-    },
-    {
-      "rank": 80,
-      "ticker": "BBAI",
-      "close": 3.72,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.0
-    },
-    {
-      "rank": 81,
-      "ticker": "ABCL",
-      "close": 3.2,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 31.5
-    },
-    {
-      "rank": 82,
-      "ticker": "ORC",
-      "close": 7.04,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 3.9
-    },
-    {
-      "rank": 83,
-      "ticker": "TOPS",
-      "close": 9.62,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 31.5
-    },
-    {
-      "rank": 84,
-      "ticker": "OGI",
-      "close": 1.4,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 20.0
-    },
-    {
-      "rank": 85,
-      "ticker": "RCON",
-      "close": 2.599,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 34.7
-    },
-    {
-      "rank": 86,
-      "ticker": "DTI",
-      "close": 3.25,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 36.3
-    },
-    {
-      "rank": 87,
-      "ticker": "NA",
-      "close": 10.39,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 14.9
-    },
-    {
-      "rank": 88,
-      "ticker": "PLAY",
-      "close": 30.17,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 0.0
-    },
-    {
-      "rank": 89,
-      "ticker": "EONR",
-      "close": 0.575,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 41.0
-    },
-    {
-      "rank": 90,
-      "ticker": "BIRD",
-      "close": 10.56,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.6
-    },
-    {
-      "rank": 91,
+      "rank": 56,
       "ticker": "LE",
       "close": 8.86,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 36.7
-    },
-    {
-      "rank": 92,
-      "ticker": "MAGN",
-      "close": 12.85,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 21.6
-    },
-    {
-      "rank": 93,
-      "ticker": "GBR",
-      "close": 1.15,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 36.3
-    },
-    {
-      "rank": 94,
-      "ticker": "QXO",
-      "close": 19.66,
       "profile_tier": "A",
       "profile_historical_hit_rate_pct": 22.7
     },
     {
-      "rank": 95,
-      "ticker": "PDYN",
-      "close": 7.96,
+      "rank": 57,
+      "ticker": "ZURA",
+      "close": 1.2,
       "profile_tier": "A",
       "profile_historical_hit_rate_pct": 33.8
     },
     {
-      "rank": 96,
-      "ticker": "SGMT",
-      "close": 8.27,
+      "rank": 58,
+      "ticker": "TSBX",
+      "close": 0.3345,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 20.6
+      "profile_historical_hit_rate_pct": 72.0
     },
     {
-      "rank": 97,
-      "ticker": "AIMD",
-      "close": 2.52,
+      "rank": 59,
+      "ticker": "LWLG",
+      "close": 1.22,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.1
+      "profile_historical_hit_rate_pct": 53.0
     },
     {
-      "rank": 98,
-      "ticker": "SQFT",
-      "close": 4.525,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 52.6
-    },
-    {
-      "rank": 99,
-      "ticker": "URG",
-      "close": 0.9507,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 28.2
-    },
-    {
-      "rank": 100,
-      "ticker": "OST",
-      "close": 174.25,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 14.9
-    },
-    {
-      "rank": 101,
-      "ticker": "NRXP",
-      "close": 3.44,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.7
-    },
-    {
-      "rank": 102,
-      "ticker": "SCLX",
-      "close": 4.82,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 47.3
-    },
-    {
-      "rank": 103,
-      "ticker": "SDOT",
-      "close": 344.0,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.0
-    },
-    {
-      "rank": 104,
-      "ticker": "VYGR",
-      "close": 3.3,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.0
-    },
-    {
-      "rank": 105,
-      "ticker": "BRN",
-      "close": 1.77,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.4
-    },
-    {
-      "rank": 106,
-      "ticker": "MTR",
-      "close": 6.4595,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 48.4
-    },
-    {
-      "rank": 107,
-      "ticker": "TORO",
-      "close": 2.46,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 27.4
-    },
-    {
-      "rank": 108,
-      "ticker": "GRNQ",
-      "close": 1.71,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 36.5
-    },
-    {
-      "rank": 109,
-      "ticker": "NEGG",
-      "close": 9.36,
-      "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.5
-    },
-    {
-      "rank": 110,
-      "ticker": "INDO",
-      "close": 5.18,
-      "profile_tier": "A",
+      "rank": 60,
+      "ticker": "GREE",
+      "close": 1.39,
+      "profile_tier": "B",
       "profile_historical_hit_rate_pct": 0.0
     },
     {
-      "rank": 111,
-      "ticker": "VSAT",
-      "close": 12.6,
+      "rank": 61,
+      "ticker": "OBLG",
+      "close": 3.6,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 62,
+      "ticker": "ANVS",
+      "close": 2.81,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 52.2
+    },
+    {
+      "rank": 63,
+      "ticker": "CLYM",
+      "close": 1.26,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.4
+    },
+    {
+      "rank": 64,
+      "ticker": "TPIC",
+      "close": 1.08,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 37.2
+      "profile_historical_hit_rate_pct": 33.8
     },
     {
-      "rank": 112,
-      "ticker": "PLAG",
-      "close": 2.47,
+      "rank": 65,
+      "ticker": "TYGO",
+      "close": 1.17,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 23.8
+    },
+    {
+      "rank": 66,
+      "ticker": "ATGL",
+      "close": 25.85,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 33.5
+      "profile_historical_hit_rate_pct": 43.6
     },
     {
-      "rank": 113,
-      "ticker": "CBAT",
-      "close": 1.21,
-      "profile_tier": "S",
-      "profile_historical_hit_rate_pct": 23.0
+      "rank": 67,
+      "ticker": "LRMR",
+      "close": 2.88,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 40.4
     },
     {
-      "rank": 114,
-      "ticker": "BYSI",
-      "close": 2.79,
+      "rank": 68,
+      "ticker": "EVOK",
+      "close": 2.8926,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 26.6
+      "profile_historical_hit_rate_pct": 36.6
     },
     {
-      "rank": 115,
+      "rank": 69,
+      "ticker": "SGMO",
+      "close": 0.491,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 12.0
+    },
+    {
+      "rank": 70,
+      "ticker": "ALGS",
+      "close": 7.71,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 12.8
+    },
+    {
+      "rank": 71,
+      "ticker": "NKTR",
+      "close": 8.59,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 72,
+      "ticker": "FNKO",
+      "close": 5.13,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.2
+    },
+    {
+      "rank": 73,
+      "ticker": "VERI",
+      "close": 1.4,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 33.2
+    },
+    {
+      "rank": 74,
+      "ticker": "LEXX",
+      "close": 14.6475,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 75,
+      "ticker": "ENPH",
+      "close": 45.6,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 22.7
+    },
+    {
+      "rank": 76,
+      "ticker": "PRZO",
+      "close": 1.4,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 40.1
+    },
+    {
+      "rank": 77,
+      "ticker": "SSP",
+      "close": 2.6,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 32.9
+    },
+    {
+      "rank": 78,
+      "ticker": "OUST",
+      "close": 18.07,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 29.9
+    },
+    {
+      "rank": 79,
+      "ticker": "LCTX",
+      "close": 0.8105,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 22.1
+    },
+    {
+      "rank": 80,
+      "ticker": "TERN",
+      "close": 3.88,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 81,
+      "ticker": "CRDF",
+      "close": 3.81,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 82,
       "ticker": "HOVR",
       "close": 1.87,
       "profile_tier": "A",
-      "profile_historical_hit_rate_pct": 26.6
+      "profile_historical_hit_rate_pct": 40.1
+    },
+    {
+      "rank": 83,
+      "ticker": "SMR",
+      "close": 38.82,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 33.1
+    },
+    {
+      "rank": 84,
+      "ticker": "IPW",
+      "close": 159.384,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 29.2
+    },
+    {
+      "rank": 85,
+      "ticker": "SLDP",
+      "close": 1.75,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.9
+    },
+    {
+      "rank": 86,
+      "ticker": "INDI",
+      "close": 3.19,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 87,
+      "ticker": "ONDS",
+      "close": 1.82,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 88,
+      "ticker": "PDYN",
+      "close": 7.96,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 89,
+      "ticker": "MNY",
+      "close": 0.8399,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 38.5
+    },
+    {
+      "rank": 90,
+      "ticker": "NINE",
+      "close": 0.7342,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 52.2
+    },
+    {
+      "rank": 91,
+      "ticker": "KLXE",
+      "close": 2.82,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 34.0
+    },
+    {
+      "rank": 92,
+      "ticker": "RH",
+      "close": 189.12,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.7
+    },
+    {
+      "rank": 93,
+      "ticker": "RXT",
+      "close": 1.27,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.5
+    },
+    {
+      "rank": 94,
+      "ticker": "MDBH",
+      "close": 4.5,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 20.3
+    },
+    {
+      "rank": 95,
+      "ticker": "AEHR",
+      "close": 11.32,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 55.9
+    },
+    {
+      "rank": 96,
+      "ticker": "UUUU",
+      "close": 5.62,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 22.2
+    },
+    {
+      "rank": 97,
+      "ticker": "LAES",
+      "close": 3.94,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 98,
+      "ticker": "EP",
+      "close": 5.3,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 62.5
+    },
+    {
+      "rank": 99,
+      "ticker": "MU",
+      "close": 115.6,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 19.5
+    },
+    {
+      "rank": 100,
+      "ticker": "ELAN",
+      "close": 13.81,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 32.9
+    },
+    {
+      "rank": 101,
+      "ticker": "RUN",
+      "close": 10.0,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 32.9
+    },
+    {
+      "rank": 102,
+      "ticker": "OST",
+      "close": 174.25,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 59.6
+    },
+    {
+      "rank": 103,
+      "ticker": "TSQ",
+      "close": 6.95,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 37.5
+    },
+    {
+      "rank": 104,
+      "ticker": "AMTX",
+      "close": 1.93,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 105,
+      "ticker": "MARA",
+      "close": 15.04,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 106,
+      "ticker": "BAER",
+      "close": 1.79,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 34.1
+    },
+    {
+      "rank": 107,
+      "ticker": "OCGN",
+      "close": 1.13,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 32.9
+    },
+    {
+      "rank": 108,
+      "ticker": "PL",
+      "close": 5.37,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 30.6
+    },
+    {
+      "rank": 109,
+      "ticker": "OCUL",
+      "close": 8.73,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 30.6
+    },
+    {
+      "rank": 110,
+      "ticker": "GSIT",
+      "close": 2.97,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 0.3
+    },
+    {
+      "rank": 111,
+      "ticker": "IONQ",
+      "close": 37.84,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 112,
+      "ticker": "EQS",
+      "close": 1.36,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 31.7
+    },
+    {
+      "rank": 113,
+      "ticker": "FBRX",
+      "close": 12.085,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 12.8
+    },
+    {
+      "rank": 114,
+      "ticker": "APP",
+      "close": 364.49,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 115,
+      "ticker": "RCAT",
+      "close": 8.34,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 43.7
+    },
+    {
+      "rank": 116,
+      "ticker": "ALTG",
+      "close": 6.24,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.2
+    },
+    {
+      "rank": 117,
+      "ticker": "EVEX",
+      "close": 5.07,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 20.2
+    },
+    {
+      "rank": 118,
+      "ticker": "CHI",
+      "close": 10.12,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 119,
+      "ticker": "MIST",
+      "close": 1.65,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 26.7
+    },
+    {
+      "rank": 120,
+      "ticker": "IMRX",
+      "close": 1.9,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 11.6
+    },
+    {
+      "rank": 121,
+      "ticker": "BRID",
+      "close": 7.83,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 10.0
+    },
+    {
+      "rank": 122,
+      "ticker": "HURC",
+      "close": 14.83,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.3
+    },
+    {
+      "rank": 123,
+      "ticker": "DXLG",
+      "close": 1.12,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 33.8
+    },
+    {
+      "rank": 124,
+      "ticker": "MNTK",
+      "close": 2.23,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 26.7
+    },
+    {
+      "rank": 125,
+      "ticker": "GENK",
+      "close": 4.03,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 26.7
+    },
+    {
+      "rank": 126,
+      "ticker": "CMPR",
+      "close": 43.0,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 13.9
+    },
+    {
+      "rank": 127,
+      "ticker": "SMRT",
+      "close": 0.8846,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 49.3
+    },
+    {
+      "rank": 128,
+      "ticker": "MTR",
+      "close": 6.4595,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 32.0
+    },
+    {
+      "rank": 129,
+      "ticker": "INDO",
+      "close": 5.18,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 24.3
+    },
+    {
+      "rank": 130,
+      "ticker": "ONCY",
+      "close": 0.608,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 1.0
+    },
+    {
+      "rank": 131,
+      "ticker": "OP",
+      "close": 40.25,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 25.7
+    },
+    {
+      "rank": 132,
+      "ticker": "URGN",
+      "close": 12.03,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 51.9
+    },
+    {
+      "rank": 133,
+      "ticker": "PLAY",
+      "close": 30.17,
+      "profile_tier": "S",
+      "profile_historical_hit_rate_pct": 43.9
+    },
+    {
+      "rank": 134,
+      "ticker": "HOTH",
+      "close": 1.3,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 12.8
+    },
+    {
+      "rank": 135,
+      "ticker": "MDAI",
+      "close": 1.97,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 12.8
+    },
+    {
+      "rank": 136,
+      "ticker": "NRXP",
+      "close": 3.44,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 33.1
+    },
+    {
+      "rank": 137,
+      "ticker": "NRSN",
+      "close": 2.38,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 23.1
+    },
+    {
+      "rank": 138,
+      "ticker": "ALT",
+      "close": 6.92,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 24.7
+    },
+    {
+      "rank": 139,
+      "ticker": "USEG",
+      "close": 2.21,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 36.3
+    },
+    {
+      "rank": 140,
+      "ticker": "RRGB",
+      "close": 4.85,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 11.6
+    },
+    {
+      "rank": 141,
+      "ticker": "SPWH",
+      "close": 4.16,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 34.1
+    },
+    {
+      "rank": 142,
+      "ticker": "RCON",
+      "close": 2.599,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 22.2
+    },
+    {
+      "rank": 143,
+      "ticker": "FURY",
+      "close": 0.5284,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 22.1
+    },
+    {
+      "rank": 144,
+      "ticker": "GBR",
+      "close": 1.15,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 52.2
+    },
+    {
+      "rank": 145,
+      "ticker": "CSBR",
+      "close": 7.66,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 22.3
+    },
+    {
+      "rank": 146,
+      "ticker": "VSAT",
+      "close": 12.6,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 35.1
+    },
+    {
+      "rank": 147,
+      "ticker": "SGMT",
+      "close": 8.27,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 34.1
+    },
+    {
+      "rank": 148,
+      "ticker": "NA",
+      "close": 10.39,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 59.6
+    },
+    {
+      "rank": 149,
+      "ticker": "UMAC",
+      "close": 8.45,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 46.5
+    },
+    {
+      "rank": 150,
+      "ticker": "VXRT",
+      "close": 0.702,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 35.1
+    },
+    {
+      "rank": 151,
+      "ticker": "VERV",
+      "close": 6.16,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 12.8
+    },
+    {
+      "rank": 152,
+      "ticker": "BLDP",
+      "close": 1.64,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.2
+    },
+    {
+      "rank": 153,
+      "ticker": "FTHM",
+      "close": 1.21,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 0.0
+    },
+    {
+      "rank": 154,
+      "ticker": "FARO",
+      "close": 42.49,
+      "profile_tier": "B",
+      "profile_historical_hit_rate_pct": 30.4
+    },
+    {
+      "rank": 155,
+      "ticker": "RLAY",
+      "close": 3.22,
+      "profile_tier": "A",
+      "profile_historical_hit_rate_pct": 34.1
     }
   ],
-  "candidates_ciphertext": "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",
-  "candidates_nonce": "F8BuqqT5Zd6aZ93w",
+  "candidates_ciphertext": "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",
+  "candidates_nonce": "a24gH2jbNS3lZJYw",
   "reveal_key": "l5FHQ1dvc93uXqRIVPgYBs8tbDcyF5fkNSsjEpntzO8="
 }
