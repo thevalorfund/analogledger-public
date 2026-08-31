@@ -1,0 +1,29 @@
+{
+  "scan_date": "2026-03-23",
+  "matured_at": "2026-06-15T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:18Z",
+  "weeks_elapsed": 23.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "AZTR",
+      "peak_return_pct": 37.5,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "MGRX",
+      "peak_return_pct": 14.0,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "GVH",
+      "peak_return_pct": 361.4,
+      "hit_100": true,
+      "delisted": false
+    }
+  ]
+}

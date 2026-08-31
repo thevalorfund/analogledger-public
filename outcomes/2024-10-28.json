@@ -1,0 +1,29 @@
+{
+  "scan_date": "2024-10-28",
+  "matured_at": "2025-01-20T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:17Z",
+  "weeks_elapsed": 96.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "CMAX",
+      "peak_return_pct": 6.3,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "CHGG",
+      "peak_return_pct": 67.2,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "NWTN",
+      "peak_return_pct": 108.2,
+      "hit_100": true,
+      "delisted": false
+    }
+  ]
+}

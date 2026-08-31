@@ -1,0 +1,29 @@
+{
+  "scan_date": "2023-11-27",
+  "matured_at": "2024-02-19T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:17Z",
+  "weeks_elapsed": 144.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "NIR",
+      "peak_return_pct": 6.7,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "CPHI",
+      "peak_return_pct": 15.3,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "OSA",
+      "peak_return_pct": 103.0,
+      "hit_100": true,
+      "delisted": false
+    }
+  ]
+}

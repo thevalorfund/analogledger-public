@@ -1,0 +1,29 @@
+{
+  "scan_date": "2024-07-15",
+  "matured_at": "2024-10-07T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:17Z",
+  "weeks_elapsed": 111.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "LPTV",
+      "peak_return_pct": 10.1,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "PACB",
+      "peak_return_pct": 36.1,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "MIRA",
+      "peak_return_pct": 627.4,
+      "hit_100": true,
+      "delisted": false
+    }
+  ]
+}

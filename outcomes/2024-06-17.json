@@ -1,0 +1,29 @@
+{
+  "scan_date": "2024-06-17",
+  "matured_at": "2024-09-09T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:17Z",
+  "weeks_elapsed": 115.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "BTTR",
+      "peak_return_pct": 8.5,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "SPEC",
+      "peak_return_pct": 42.9,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "COSM",
+      "peak_return_pct": 134.4,
+      "hit_100": true,
+      "delisted": false
+    }
+  ]
+}

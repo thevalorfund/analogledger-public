@@ -1,0 +1,29 @@
+{
+  "scan_date": "2026-03-09",
+  "matured_at": "2026-06-01T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:18Z",
+  "weeks_elapsed": 25.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "SAFX",
+      "peak_return_pct": 219.8,
+      "hit_100": true,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "ASNS",
+      "peak_return_pct": 23.9,
+      "hit_100": false,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "SCNX",
+      "peak_return_pct": 5.2,
+      "hit_100": false,
+      "delisted": false
+    }
+  ]
+}

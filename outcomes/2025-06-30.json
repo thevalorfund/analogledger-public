@@ -1,0 +1,29 @@
+{
+  "scan_date": "2025-06-30",
+  "matured_at": "2025-09-22T00:00:00Z",
+  "generated_at": "2026-08-31T04:05:18Z",
+  "weeks_elapsed": 61.0,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "AEI",
+      "peak_return_pct": 329.2,
+      "hit_100": true,
+      "delisted": false
+    },
+    {
+      "rank": 2,
+      "ticker": "CGTX",
+      "peak_return_pct": 845.7,
+      "hit_100": true,
+      "delisted": false
+    },
+    {
+      "rank": 3,
+      "ticker": "BFRI",
+      "peak_return_pct": 67.1,
+      "hit_100": false,
+      "delisted": false
+    }
+  ]
+}
