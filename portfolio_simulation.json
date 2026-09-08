@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T03:26:29Z",
+  "generated_at": "2026-09-08T03:41:51Z",
   "configuration": {
     "n_per_week": 3,
     "dollars_per_position": 500,
@@ -5567,7 +5567,7 @@
         "value": 64378,
         "cash": 49878,
         "deployed": 14500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "open",
@@ -5594,7 +5594,7 @@
         "value": 64378,
         "cash": 49878,
         "deployed": 14500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": []
       },
       {
@@ -5602,7 +5602,7 @@
         "value": 63953,
         "cash": 49953,
         "deployed": 14000,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5635,7 +5635,7 @@
         "value": 65101,
         "cash": 51101,
         "deployed": 14000,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5689,7 +5689,7 @@
         "value": 66292,
         "cash": 52292,
         "deployed": 14000,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5743,7 +5743,7 @@
         "value": 66288,
         "cash": 51788,
         "deployed": 14500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5788,7 +5788,7 @@
         "value": 66169,
         "cash": 51669,
         "deployed": 14500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5812,7 +5812,7 @@
         "value": 66648,
         "cash": 52148,
         "deployed": 14500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5866,7 +5866,7 @@
         "value": 67314,
         "cash": 52314,
         "deployed": 15000,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5911,7 +5911,7 @@
         "value": 69564,
         "cash": 54564,
         "deployed": 15000,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -5965,7 +5965,7 @@
         "value": 69564,
         "cash": 53064,
         "deployed": 16500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "open",
@@ -5992,7 +5992,7 @@
         "value": 70708,
         "cash": 54208,
         "deployed": 16500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "close",
@@ -6046,7 +6046,7 @@
         "value": 70708,
         "cash": 53208,
         "deployed": 17500,
-        "candidate_era": false,
+        "candidate_era": true,
         "transactions": [
           {
             "type": "open",
@@ -6067,309 +6067,99 @@
         "value": 70708,
         "cash": 52208,
         "deployed": 18500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "open",
-            "ticker": "MODD",
-            "entry_price": 4.94,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "MGN",
-            "entry_price": 0.177,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-06-29",
         "value": 70708,
         "cash": 51708,
         "deployed": 19000,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "open",
-            "ticker": "TNMG",
-            "entry_price": 0.6119,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-07-06",
         "value": 70708,
         "cash": 51208,
         "deployed": 19500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "open",
-            "ticker": "BGM",
-            "entry_price": 0.335,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-07-13",
         "value": 71074,
         "cash": 51574,
         "deployed": 19500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "BURU",
-            "entry_date": "2026-04-20",
-            "entry_price": 0.3143,
-            "exit_type": "delisted",
-            "return_pct": -76.9,
-            "dollar_pnl": -384
-          },
-          {
-            "type": "close",
-            "ticker": "SOBR",
-            "entry_date": "2026-04-27",
-            "entry_price": 0.9821,
-            "exit_type": "+150% target",
-            "return_pct": 150.0,
-            "dollar_pnl": 750
-          },
-          {
-            "type": "open",
-            "ticker": "GCTK",
-            "entry_price": 0.492,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "ATPC",
-            "entry_price": 3.07,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-07-20",
         "value": 71085,
         "cash": 51585,
         "deployed": 19500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "INDP",
-            "entry_date": "2025-12-22",
-            "entry_price": 2.55,
-            "exit_type": "time exit",
-            "return_pct": 2.4,
-            "dollar_pnl": 12
-          },
-          {
-            "type": "open",
-            "ticker": "PN",
-            "entry_price": 7.98,
-            "exit_date": "2026-07-27"
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-07-27",
         "value": 72321,
         "cash": 53321,
         "deployed": 19000,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "INDP",
-            "entry_date": "2025-12-29",
-            "entry_price": 2.74,
-            "exit_type": "time exit",
-            "return_pct": -52.9,
-            "dollar_pnl": -265
-          },
-          {
-            "type": "close",
-            "ticker": "MGRX",
-            "entry_date": "2026-03-23",
-            "entry_price": 0.4873,
-            "exit_type": "+150% target",
-            "return_pct": 150.0,
-            "dollar_pnl": 750
-          },
-          {
-            "type": "close",
-            "ticker": "PN",
-            "entry_date": "2026-07-20",
-            "entry_price": 7.98,
-            "exit_type": "+150% target",
-            "return_pct": 150.0,
-            "dollar_pnl": 750
-          },
-          {
-            "type": "open",
-            "ticker": "GCTK",
-            "entry_price": 0.477,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "GOSS",
-            "entry_price": 0.1695,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-08-03",
         "value": 72321,
         "cash": 52321,
         "deployed": 20000,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "open",
-            "ticker": "TNMG",
-            "entry_price": 0.5329,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "GCTK",
-            "entry_price": 0.4322,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-08-10",
         "value": 71075,
         "cash": 51575,
         "deployed": 19500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "AZTR",
-            "entry_date": "2026-01-12",
-            "entry_price": 0.328,
-            "exit_type": "time exit",
-            "return_pct": -57.5,
-            "dollar_pnl": -288
-          },
-          {
-            "type": "close",
-            "ticker": "DDC",
-            "entry_date": "2026-01-12",
-            "entry_price": 3.51,
-            "exit_type": "time exit",
-            "return_pct": -81.1,
-            "dollar_pnl": -405
-          },
-          {
-            "type": "close",
-            "ticker": "OSRH",
-            "entry_date": "2026-01-12",
-            "entry_price": 0.7472,
-            "exit_type": "time exit",
-            "return_pct": -57.7,
-            "dollar_pnl": -289
-          },
-          {
-            "type": "close",
-            "ticker": "SBEV",
-            "entry_date": "2026-06-01",
-            "entry_price": 1.0,
-            "exit_type": "delisted",
-            "return_pct": -52.9,
-            "dollar_pnl": -264
-          },
-          {
-            "type": "open",
-            "ticker": "SOAR",
-            "entry_price": 0.17,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "SURG",
-            "entry_price": 0.282,
-            "exit_date": null
-          },
-          {
-            "type": "open",
-            "ticker": "CDTG",
-            "entry_price": 2.09,
-            "exit_date": "2026-08-17"
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-08-17",
         "value": 71825,
         "cash": 52325,
         "deployed": 19500,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "CDTG",
-            "entry_date": "2026-08-10",
-            "entry_price": 2.09,
-            "exit_type": "+150% target",
-            "return_pct": 150.0,
-            "dollar_pnl": 750
-          },
-          {
-            "type": "open",
-            "ticker": "MODD",
-            "entry_price": 3.54,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-08-24",
         "value": 71825,
         "cash": 51825,
         "deployed": 20000,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "open",
-            "ticker": "TNMG",
-            "entry_price": 0.466,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       },
       {
         "date": "2026-08-31",
         "value": 71425,
         "cash": 51425,
         "deployed": 20000,
-        "candidate_era": false,
-        "transactions": [
-          {
-            "type": "close",
-            "ticker": "AIM",
-            "entry_date": "2026-02-02",
-            "entry_price": 1.14,
-            "exit_type": "time exit",
-            "return_pct": -80.0,
-            "dollar_pnl": -400
-          },
-          {
-            "type": "open",
-            "ticker": "MGN",
-            "entry_price": 0.1004,
-            "exit_date": null
-          }
-        ]
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
       }
     ]
   },
@@ -7187,7 +6977,7 @@
           "value": 24261,
           "cash": 11761,
           "deployed": 12500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "open",
@@ -7214,7 +7004,7 @@
           "value": 25309,
           "cash": 12809,
           "deployed": 12500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -7268,7 +7058,7 @@
           "value": 25138,
           "cash": 13638,
           "deployed": 11500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -7325,7 +7115,7 @@
           "value": 25138,
           "cash": 12638,
           "deployed": 12500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -9758,7 +9548,7 @@
           "value": 30502,
           "cash": 11002,
           "deployed": 19500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -9821,7 +9611,7 @@
           "value": 30236,
           "cash": 9736,
           "deployed": 20500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -11865,7 +11655,7 @@
           "value": 38871,
           "cash": 24871,
           "deployed": 14000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "open",
@@ -11886,7 +11676,7 @@
           "value": 41029,
           "cash": 29029,
           "deployed": 12000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -11946,7 +11736,7 @@
           "value": 42529,
           "cash": 30529,
           "deployed": 12000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -11985,7 +11775,7 @@
           "value": 42358,
           "cash": 30358,
           "deployed": 12000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12024,7 +11814,7 @@
           "value": 43108,
           "cash": 31608,
           "deployed": 11500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12042,7 +11832,7 @@
           "value": 42905,
           "cash": 31905,
           "deployed": 11000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12060,7 +11850,7 @@
           "value": 43605,
           "cash": 33605,
           "deployed": 10000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12087,7 +11877,7 @@
           "value": 43593,
           "cash": 34093,
           "deployed": 9500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12105,7 +11895,7 @@
           "value": 43593,
           "cash": 34093,
           "deployed": 9500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": []
         },
         {
@@ -12113,7 +11903,7 @@
           "value": 43593,
           "cash": 34093,
           "deployed": 9500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": []
         },
         {
@@ -12121,7 +11911,7 @@
           "value": 44356,
           "cash": 35856,
           "deployed": 8500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12148,7 +11938,7 @@
           "value": 44341,
           "cash": 36341,
           "deployed": 8000,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12166,7 +11956,7 @@
           "value": 44360,
           "cash": 36860,
           "deployed": 7500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -12199,7 +11989,7 @@
           "value": 44667,
           "cash": 37167,
           "deployed": 7500,
-          "candidate_era": false,
+          "candidate_era": true,
           "transactions": [
             {
               "type": "close",
@@ -13345,63 +13135,27 @@
           "value": 24625,
           "cash": 5125,
           "deployed": 19500,
-          "candidate_era": false,
-          "transactions": [
-            {
-              "type": "close",
-              "ticker": "CDTG",
-              "entry_date": "2026-08-10",
-              "entry_price": 2.09,
-              "exit_type": "+150% target",
-              "return_pct": 150.0,
-              "dollar_pnl": 750
-            },
-            {
-              "type": "open",
-              "ticker": "MODD",
-              "entry_price": 3.54,
-              "exit_date": null
-            }
-          ]
+          "candidate_era": true,
+          "transactions": [],
+          "locked": true
         },
         {
           "date": "2026-08-24",
           "value": 24625,
           "cash": 4625,
           "deployed": 20000,
-          "candidate_era": false,
-          "transactions": [
-            {
-              "type": "open",
-              "ticker": "TNMG",
-              "entry_price": 0.466,
-              "exit_date": null
-            }
-          ]
+          "candidate_era": true,
+          "transactions": [],
+          "locked": true
         },
         {
           "date": "2026-08-31",
           "value": 24224,
           "cash": 4224,
           "deployed": 20000,
-          "candidate_era": false,
-          "transactions": [
-            {
-              "type": "close",
-              "ticker": "AIM",
-              "entry_date": "2026-02-02",
-              "entry_price": 1.14,
-              "exit_type": "time exit",
-              "return_pct": -80.0,
-              "dollar_pnl": -400
-            },
-            {
-              "type": "open",
-              "ticker": "MGN",
-              "entry_price": 0.1004,
-              "exit_date": null
-            }
-          ]
+          "candidate_era": true,
+          "transactions": [],
+          "locked": true
         }
       ]
     }
