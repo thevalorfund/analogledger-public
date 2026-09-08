@@ -2,7 +2,19 @@
   "scan_date": "2026-06-15",
   "published_at": "2026-08-31T04:05:14Z",
   "candidate_count": 2,
-  "candidates": null,
+  "candidates": [
+    {
+      "rank": 1,
+      "ticker": "IVDA",
+      "close": 0.43
+    },
+    {
+      "rank": 2,
+      "ticker": "SOWG",
+      "close": 3.87
+    }
+  ],
   "candidates_ciphertext": "PgViQZwqzp+3EP/EFmSGzd0vI8kOCunKcNXQruTb1JtrHNTZ0x/wMLH6+rF96MOqwrznYuItrffv/tgMPT6Piver6gac6uX+/DprEfTigZPoRRPkJ5Y5VjTac4PNvn1dBjehu66K+swFq/sT",
-  "candidates_nonce": "/oKTMPKhouIWlUmo"
+  "candidates_nonce": "/oKTMPKhouIWlUmo",
+  "reveal_key": "TBVEgyT562GwcCTxkriyDZgIe+HCakDmyxg4iiWZAWA="
 }
