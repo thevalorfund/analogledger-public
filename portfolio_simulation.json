@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:52:49Z",
+  "generated_at": "2026-09-09T16:58:19Z",
   "configuration": {
     "n_per_week": 3,
     "dollars_per_position": 500,
@@ -1035,7 +1035,7 @@
           {
             "type": "open",
             "ticker": "CUEN",
-            "entry_price": NaN,
+            "entry_price": 1.01,
             "exit_date": "2023-12-25"
           },
           {
@@ -1066,7 +1066,7 @@
             "type": "close",
             "ticker": "CUEN",
             "entry_date": "2023-12-18",
-            "entry_price": NaN,
+            "entry_price": 1.01,
             "exit_type": "delisted",
             "return_pct": 0.0,
             "dollar_pnl": 0
@@ -7099,7 +7099,7 @@
             {
               "type": "open",
               "ticker": "CUEN",
-              "entry_price": NaN,
+              "entry_price": 1.01,
               "exit_date": "2023-12-25"
             },
             {
@@ -7130,7 +7130,7 @@
               "type": "close",
               "ticker": "CUEN",
               "entry_date": "2023-12-18",
-              "entry_price": NaN,
+              "entry_price": 1.01,
               "exit_type": "delisted",
               "return_pct": 0.0,
               "dollar_pnl": 0
