@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:14:16Z",
+  "generated_at": "2026-09-12T06:01:20Z",
   "configuration": {
     "n_per_week": 3,
     "dollars_per_position": 500,
@@ -11,18 +11,18 @@
   },
   "all_time": {
     "model_version": "all_time",
-    "weeks": 144,
+    "weeks": 145,
     "date_range": [
       "2023-06-19",
-      "2026-08-31"
+      "2026-09-07"
     ],
-    "final_equity": 92206.0,
-    "return_pct": 514.7,
-    "win_rate_pct": 48.6,
+    "final_equity": 92956.0,
+    "return_pct": 519.7,
+    "win_rate_pct": 48.8,
     "sharpe_ratio": 2.2,
-    "sortino_ratio": 8.17,
+    "sortino_ratio": 8.16,
     "max_drawdown_pct": -14.2,
-    "n_closed": 296,
+    "n_closed": 297,
     "equity_curve": [
       15000,
       15000,
@@ -192,7 +192,8 @@
       91851,
       92601,
       92601,
-      92206
+      92206,
+      92956
     ],
     "weekly_detail": [
       {
@@ -5888,7 +5889,7 @@
           {
             "type": "open",
             "ticker": "GTBP",
-            "entry_price": 0.3906,
+            "entry_price": 9.765,
             "exit_date": null
           },
           {
@@ -6174,6 +6175,15 @@
         "value": 92206,
         "cash": 72206,
         "deployed": 20000,
+        "candidate_era": true,
+        "transactions": [],
+        "locked": true
+      },
+      {
+        "date": "2026-09-07",
+        "value": 92956,
+        "cash": 72456,
+        "deployed": 20500,
         "candidate_era": true,
         "transactions": [],
         "locked": true
@@ -12454,18 +12464,18 @@
     },
     {
       "model_version": "2026",
-      "weeks": 31,
+      "weeks": 32,
       "date_range": [
         "2026-01-12",
-        "2026-08-31"
+        "2026-09-07"
       ],
-      "final_equity": 24380.0,
-      "return_pct": 62.5,
-      "win_rate_pct": 66.7,
-      "sharpe_ratio": 3.3,
-      "sortino_ratio": 6.76,
+      "final_equity": 25130.0,
+      "return_pct": 67.5,
+      "win_rate_pct": 68.0,
+      "sharpe_ratio": 3.43,
+      "sortino_ratio": 6.96,
       "max_drawdown_pct": -4.9,
-      "n_closed": 24,
+      "n_closed": 25,
       "equity_curve": [
         15000,
         15000,
@@ -12501,7 +12511,8 @@
         24024,
         24774,
         24774,
-        24380
+        24380,
+        25130
       ],
       "weekly_detail": [
         {
@@ -12931,7 +12942,7 @@
             {
               "type": "open",
               "ticker": "GTBP",
-              "entry_price": 0.3906,
+              "entry_price": 9.765,
               "exit_date": null
             },
             {
@@ -13211,6 +13222,15 @@
           "candidate_era": true,
           "transactions": [],
           "locked": true
+        },
+        {
+          "date": "2026-09-07",
+          "value": 25130,
+          "cash": 4630,
+          "deployed": 20500,
+          "candidate_era": true,
+          "transactions": [],
+          "locked": true
         }
       ]
     }
@@ -13238,11 +13258,11 @@
       "BTC": -14.7
     },
     "2026": {
-      "SPY": 10.3,
-      "QQQ": 14.3,
-      "IWM": 12.4,
-      "DIA": 7.2,
-      "BTC": -13.8
+      "SPY": 10.8,
+      "QQQ": 14.6,
+      "IWM": 13.2,
+      "DIA": 7.7,
+      "BTC": -13.3
     }
   },
   "benchmark_curves": {
@@ -14046,7 +14066,8 @@
         16680.26,
         16672.49,
         16473.98,
-        16551.23
+        16551.23,
+        16618.98
       ],
       "QQQ": [
         15000.0,
@@ -14082,7 +14103,8 @@
         17241.02,
         17456.27,
         16893.03,
-        17142.72
+        17142.72,
+        17195.34
       ],
       "IWM": [
         15000.0,
@@ -14118,7 +14140,8 @@
         17207.27,
         17441.3,
         17091.97,
-        16860.23
+        16860.23,
+        16979.54
       ],
       "DIA": [
         15000.0,
@@ -14154,7 +14177,8 @@
         16303.39,
         16158.2,
         16141.86,
-        16078.95
+        16078.95,
+        16154.87
       ],
       "BTC": [
         15000.0,
@@ -14190,7 +14214,8 @@
         10512.87,
         10607.01,
         12991.69,
-        12923.35
+        12923.35,
+        13009.85
       ]
     }
   },
